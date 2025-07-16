@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DukeDev2k
 - 👀 I’m interested in Calisthetics
-- 🌱 I’m currently learning C# , Unity
-- 💞️ I’m looking to collaborate on Game Development
+- 🌱 I’m currently learning Automation Testing using Java , Appium , Selenium 
 - 📫 How to reach me : fulltimedev2k@gmail.com 
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: never know when to stop
